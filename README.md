@@ -4,7 +4,8 @@
 
 
 ## Description
-- This application allows the user to recieve prompts in the command line so they can generate a read.me. 
+- This application allows the user to recieve prompts in the command line so they can generate a read.me.
+
 ## Deployed URL
 [
 ](https://drive.google.com/drive/folders/1s_yENAOiPm072uJBrwj30-3SU_Hojyc1?usp=drive_linkLinks to an external site.)
@@ -21,13 +22,14 @@
 
 
 ## Features
-j
+- packages used for this application were inquirer, node, generateMarkdown, fs, and process
+
 ## Languages & Dependencies
 undefined
 ## ApplicationUse:
-j
-## Creator
-k
+- This application uses index.js and generate Markdown
 
+ ## Creator
+- Ismail Khan
 
 
